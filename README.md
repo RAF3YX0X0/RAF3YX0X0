@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2400&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abdul+Rafay+%F0%9F%91%8B;Blockchain+Enthusiast+%C2%B7+Automations;Blockchain+%26+Pushing+New+Ideas" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2400&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abdul+Rafay+%F0%9F%91%8B;Blockchain+Enthusiast+%C2%B7+Automations;Founding+%26+Pushing+New+Ideas" alt="typing intro" />
 
 <br/>
 
@@ -94,9 +94,9 @@ shipping:    2 startups
   <td width="50%" valign="top">
     <h4>👷 <a href="https://github.com/RAF3YX0X0/awaaz-e-karachi">Awaaz-e-Karachi</a></h4>
     <p>Karachi's own AI-augmented Problem mapper. Find out all the problems, spread a voice, and be a part of the top tier karachite community.</p>
-    <img src="https://img.shields.io/badge/-Flutter%2016-000000?style=flat-square&logo=nextdotjs">
-    <img src="https://img.shields.io/badge/-Firebase-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/-Dart-6C47FF?style=flat-square&logo=clerk&logoColor=white">
+    <img src="https://img.shields.io/badge/-Flutter%2016-000000?style=flat-square&logo=Flutter">
+    <img src="https://img.shields.io/badge/-Firebase-4169E1?style=flat-square&logo=Firebase&logoColor=white">
+    <img src="https://img.shields.io/badge/-Dart-6C47FF?style=flat-square&logo=Dart&logoColor=white">
   </td>
 </tr>
 </table>
